@@ -33,3 +33,44 @@ Interpretation
 
 Business Decision
 If the Treatment group has a higher paid conversion rate and the result is statistically significant, the company can recommend launching the new onboarding campaign. If not, the company should continue with the current onboarding process or run more tests.
+
+Guardrail Metrics Evaluation
+Even if the Treatment group has a higher paid conversion rate, the business should not make a decision based only on that metric. Other important metrics must also be checked to make sure the new onboarding process does not create problems.
+
+1. Refund Rate
+
+The refund rate shows how many customers asked for a refund after purchasing.
+
+* If the refund rate is lower or stays the same in the Treatment group, there is **low risk**.
+* If the refund rate is higher, it means customers may not be satisfied with the new onboarding process.
+
+Risk: A higher refund rate could reduce overall business profits.
+
+2. Support Ticket Rate
+
+The support ticket rate shows how many users contacted customer support.
+
+* If the support ticket rate is lower or similar in the Treatment group, there is **low risk**.
+* If it is higher, users may be confused by the new onboarding process.
+
+Risk: More support requests increase business costs and reduce customer satisfaction.
+
+3. Average Days to Convert
+
+This metric measures how long users take to become paying customers.
+
+* Fewer days to convert means users decide to purchase more quickly.
+* More days to convert may indicate that the onboarding process is less effective.
+Risk: A longer conversion time may delay revenue and reduce sales performance.
+
+4. Engagement Score
+
+The engagement score measures how actively users use the product.
+
+* A higher engagement score is a positive sign.
+* A lower engagement score means users are less interested or active.
+
+Risk: Low engagement may lead to lower customer retention in the future.
+
+Overall Evaluation
+The new onboarding campaign should only be recommended if it increases the paid conversion rate without causing higher refund rates, more support tickets, longer conversion times, or lower engagement. If any of these guardrail metrics become worse, the business should investigate the issue before launching the new campaign.
