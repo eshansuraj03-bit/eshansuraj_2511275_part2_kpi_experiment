@@ -1,0 +1,7 @@
+Business Problem Summary
+
+The objective is to determine whether the new onboarding campaign should be launched, rejected, tested further, or rolled out only to selected customer segments.
+The decision affects business leaders, marketing, product teams, and customers.
+The main success metric is the paid conversion rate, while improvements in trial starts, onboarding completion, revenue, and engagement are also desirable.
+Potential risks include increased refund requests, more support tickets, lower-quality revenue, and reduced engagement. These guardrail metrics must not worsen.
+The recommendation should only be made after analyzing the experimental results and confirming that any improvements are statistically significant and provide clear business value.
