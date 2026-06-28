@@ -5,3 +5,26 @@ The decision affects business leaders, marketing, product teams, and customers.
 The main success metric is the paid conversion rate, while improvements in trial starts, onboarding completion, revenue, and engagement are also desirable.
 Potential risks include increased refund requests, more support tickets, lower-quality revenue, and reduced engagement. These guardrail metrics must not worsen.
 The recommendation should only be made after analyzing the experimental results and confirming that any improvements are statistically significant and provide clear business value.
+
+North Star Metric
+Paid Conversion Rate (converted_to_paid)
+
+Why This Is the North Star Metric
+The paid conversion rate is the most important measure of success because the purpose of the experiment is to determine whether the new onboarding campaign encourages more users to become paying customers. An increase in paid conversions directly reflects the campaign's ability to generate business value and increase revenue.
+
+Why Other Metrics Are Supporting Metrics
+Other metrics help explain why the conversion rate changed and ensure the improvement is sustainable, but they do not represent the primary business objective.
+* Trial Starts: Indicates initial customer interest but does not guarantee payment.
+* Onboarding Completion: Measures user progress through the onboarding process but not final conversion.
+* 30-Day Revenue: Shows financial impact after conversion and supports the evaluation of customer value.
+* Customer Engagement: Helps determine whether users actively use the product after onboarding.
+* Refund Requests: Acts as a guardrail metric to ensure conversions are genuine and not leading to customer dissatisfaction.
+* Support Tickets: Indicates whether the new onboarding process creates confusion or usability issues.
+
+These metrics provide additional evidence but are secondary to the main goal of increasing paid customers.
+
+Connection to Business Growth
+A higher paid conversion rate means more users become paying customers without necessarily increasing customer acquisition costs. This improves revenue, customer lifetime value, and overall business growth while making marketing and onboarding investments more effective.
+
+Risk of Optimizing This Metric Alone
+Focusing only on increasing the paid conversion rate could create unintended problems. Customers may be encouraged to subscribe before they fully understand the product, leading to more refund requests, lower customer satisfaction, increased support tickets, or poor long-term retention. Therefore, the North Star metric should always be evaluated alongside supporting and guardrail metrics to ensure healthy and sustainable business growth.
