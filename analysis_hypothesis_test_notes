@@ -1,0 +1,35 @@
+Hypothesis Test Notes
+
+Objective
+The goal is to find out whether the new onboarding campaign (Treatment group) performs better than the current onboarding process (Control group).
+
+Metric Being Tested
+Paid Conversion Rate
+This measures the percentage of users who become paying customers.
+
+Why This Metric?
+Paid Conversion Rate is the most important metric because the main goal of the experiment is to increase the number of users who buy the product.
+
+Null Hypothesis (H₀)
+There is no difference in the paid conversion rate between the Control group and the Treatment group.
+
+Alternative Hypothesis (H₁)
+There is a difference in the paid conversion rate between the Control group and the Treatment group.
+
+Type of Test
+Two-tailed test
+A two-tailed test is used because we want to check whether the new campaign performs differently from the current one, either better or worse.
+
+Significance Level
+5% (α = 0.05)
+This means we accept only a 5% chance that the result happened by random chance.
+
+Interpretation
+* If the p-value is less than 0.05:
+  The difference is statistically significant. We reject the null hypothesis and conclude that the new campaign has a real effect.
+
+* If the p-value is 0.05 or more:
+  The difference is not statistically significant. We keep the null hypothesis because there is not enough evidence that the new campaign performs differently.
+
+Business Decision
+If the Treatment group has a higher paid conversion rate and the result is statistically significant, the company can recommend launching the new onboarding campaign. If not, the company should continue with the current onboarding process or run more tests.
