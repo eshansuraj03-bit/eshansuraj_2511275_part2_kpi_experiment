@@ -29,71 +29,54 @@ A higher paid conversion rate means more users become paying customers without n
 Risk of Optimizing This Metric Alone
 Focusing only on increasing the paid conversion rate could create unintended problems. Customers may be encouraged to subscribe before they fully understand the product, leading to more refund requests, lower customer satisfaction, increased support tickets, or poor long-term retention. Therefore, the North Star metric should always be evaluated alongside supporting and guardrail metrics to ensure healthy and sustainable business growth.
 
-# Recommendation Memo
-
-# Executive Summary
-
+Executive Summary
 This report evaluates the performance of the new onboarding campaign by comparing the Control and Treatment groups in an A/B experiment. The analysis focuses on the paid conversion rate, business performance, and guardrail metrics to determine whether the new campaign should be implemented.
 
-# North Star Metric
+North Star Metric
+The North Star metric for this experiment is Paid Conversion Rate because it directly measures the percentage of users who become paying customers. Improving this metric helps increase business revenue and supports long-term growth.
 
-The North Star metric for this experiment is **Paid Conversion Rate** because it directly measures the percentage of users who become paying customers. Improving this metric helps increase business revenue and supports long-term growth.
-
-# KPI Tree Explanation
-
+KPI Tree Explanation
 The Paid Conversion Rate is influenced by three main drivers:
-
-* **Customer Acquisition Quality** (Trial Start Rate, Qualified User Sign-up Rate)
-* **Onboarding Experience** (Onboarding Completion Rate, Time to Complete Onboarding)
-* **Customer Engagement** (Active Users, Feature Adoption)
+* Customer Acquisition Quality (Trial Start Rate, Qualified User Sign-up Rate)
+* Onboarding Experience (Onboarding Completion Rate, Time to Complete Onboarding)
+* Customer Engagement (Active Users, Feature Adoption)
 
 Guardrail metrics such as Refund Rate, Support Ticket Rate, Engagement Score, and Days to Convert were also evaluated to ensure that improvements in conversion do not negatively affect customer experience.
 
-# Experiment Result Summary
-
+Experiment Result Summary
 The comparison between the Control and Treatment groups showed the following:
-
-* Paid Conversion Rate: **Control = XX%**, **Treatment = XX%**
-* Average Revenue per User: **Control = XX**, **Treatment = XX**
-* Refund Rate: **Control = XX%**, **Treatment = XX%**
-* Support Ticket Rate: **Control = XX%**, **Treatment = XX%**
-* Average Engagement Score: **Control = XX**, **Treatment = XX**
-* Average Days to Convert: **Control = XX**, **Treatment = XX**
+* Paid Conversion Rate: Control = XX%, Treatment = XX%
+* Average Revenue per User: Control = XX, Treatment = XX
+* Refund Rate: Control = XX%, Treatment = XX%
+* Support Ticket Rate: Control = XX%, Treatment = XX%
+* Average Engagement Score: Control = XX, Treatment = XX
+* Average Days to Convert: Control = XX, Treatment = XX
 
 These results indicate whether the Treatment group performed better than the Control group across the key business metrics.
 
-# Hypothesis Test Interpretation
-
+Hypothesis Test Interpretation
 The hypothesis test compared the Paid Conversion Rate between the Control and Treatment groups.
+* Null Hypothesis (H₀ ): there is no difference in the paid conversion rate.
+* Alternative Hypothesis (H₁): There is a difference in the paid conversion rate.
 
-* **Null Hypothesis (H₀):** There is no difference in the paid conversion rate.
-* **Alternative Hypothesis (H₁):** There is a difference in the paid conversion rate.
+P-value = XX
+* If p-value < 0.05, reject the null hypothesis and conclude that the difference is statistically significant.
+* If p-value ≥ 0.05, fail to reject the null hypothesis because there is not enough evidence of a significant difference.
 
-**P-value = XX**
-
-* If **p-value < 0.05**, reject the null hypothesis and conclude that the difference is statistically significant.
-* If **p-value ≥ 0.05**, fail to reject the null hypothesis because there is not enough evidence of a significant difference.
-
-# Guardrail Analysis
-
+Guardrail Analysis
 The following guardrail metrics were reviewed:
-
-* **Refund Rate:** XX
-* **Support Ticket Rate:** XX
-* **Average Days to Convert:** XX
-* **Average Engagement Score:** XX
-
+* Refund Rate: XX
+* Support Ticket Rate: XX
+* Average Days to Convert: XX
+* Average Engagement Score: XX
 These metrics help ensure that improvements in conversion are not achieved at the cost of customer satisfaction or business quality.
 
 # Segment-Level Insight
-
 The experiment results were also analyzed by customer segments, including:
-
 * Region
 * Device Type
 * Traffic Source
-
-The analysis showed that **[mention the best-performing segment based on your data]** performed better than other segments. This information can help the business target future campaigns more effectively.
+The analysis showed that [mention the best-performing segment based on your data] performed better than other segments. This information can help the business target future campaigns more effectively.
 
 Final Recommendation
 Choose ONE based on your results:
