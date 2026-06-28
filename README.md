@@ -33,3 +33,24 @@ A Pivot Table was used to compare customer segment distribution across the Contr
 
 Summary
 The dataset was reviewed for missing values, duplicate users, invalid binary values, revenue outliers, and balanced segment distribution before statistical analysis. These checks improve the reliability and validity of the experiment results.
+
+Business Context – Explain the business problem, why the experiment is being conducted, and the goal.
+
+Dataset Description – Briefly describe the dataset, including the number of records and the main variables used.
+
+North Star Metric Selected – State the main success metric (e.g., Paid Conversion Rate) and explain why it was chosen.
+
+KPI Tree Summary – Summarize the North Star metric, its main drivers, sub-drivers, and guardrail metrics.
+
+Experiment Analysis Approach – Describe how you analyzed the data (data cleaning, summary statistics, segment analysis, and hypothesis testing).
+
+Hypothesis Test Summary – Include the null hypothesis, alternative hypothesis, significance level (0.05), test result, and conclusion.
+
+Guardrail Metrics Considered – Mention the guardrail metrics (e.g., Refund Rate, Support Ticket Rate, Engagement Score) and explain how they were evaluated.
+
+Final Recommendation – Give your decision based on the analysis (Launch, Do Not Launch, Launch for Selected Segment, or Continue Testing) with supporting evidence.
+
+Assumptions and Limitations – Mention any assumptions made and the limitations of the experiment, such as sample size or limited testing period.
+
+Screenshots Included – Add screenshots of your Excel analysis, Pivot Tables, KPI Tree, charts, and any important outputs used in the report.
+
